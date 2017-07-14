@@ -1,6 +1,6 @@
 # 42sh
 
-Own shell base on TCSH
+Own shell base on TCSH made in C
 
     Dev period: 18 may 2016 - 05 june 2016
 
